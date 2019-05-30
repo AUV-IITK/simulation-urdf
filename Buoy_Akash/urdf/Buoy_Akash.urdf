@@ -209,4 +209,16 @@
     <safety_controller
       k_velocity="0" />
   </joint>
+  <gazebo reference="Board_2">
+    <material>Gazebo/Red</material>
+  </gazebo>
+  <gazebo reference="Board_1">
+    <material>Gazebo/Green</material>
+  </gazebo>
+  <gazebo reference="Board_3">
+    <material>Gazebo/Yellow</material>
+  </gazebo>
+  <gazebo reference="base_link">
+    <material>Gazebo/Grey</material>
+  </gazebo>
 </robot>
