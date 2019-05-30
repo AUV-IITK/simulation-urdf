@@ -1,4 +1,4 @@
 # Buoy
 Test Buoy for Robosub
 
-URDF package name Akash_Buoy
+URDF package name Buoy_Akash
